@@ -1,0 +1,682 @@
+14:16:40.425 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\led board.SchDoc - sheet was imported (objects:33) 
+14:16:40.488 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V1) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\led board.SchDoc, projectFullPath: Free Documents, isDeviceSheet: False 
+14:16:40.494 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V2) DocumentLoading finished: (0:00:00,0058489) 
+14:16:41.126 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\tussenprint.SchDoc - sheet was imported (objects:52) 
+14:16:41.135 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V2) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\tussenprint.SchDoc, projectFullPath: Free Documents, isDeviceSheet: False 
+14:16:41.135 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V3) DocumentLoading finished: (0:00:00,0023598) 
+14:16:43.446 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\boosterdeel2.SchDoc - sheet was taken from cache (objects:133) 
+14:16:43.461 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V4) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\boosterdeel2.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, isDeviceSheet: False 
+14:16:43.476 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.DocumentLoading (delayed) 
+14:16:43.476 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V6) DocumentLoading finished: (0:00:00,0143639) 
+14:16:43.493 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V6) Compilation completed, (0:00:00,0035504) 
+14:16:43.506 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0002195) 
+14:16:43.506 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V6) ERC default completed (0:00:00,0078375) 
+14:16:43.506 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:16:43.589 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\booster12-70v.SchDoc - sheet was taken from cache (objects:90) 
+14:16:43.589 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V6) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\booster12-70v.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, isDeviceSheet: False 
+14:16:43.589 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.DocumentLoading (delayed) 
+14:16:43.589 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V8) DocumentLoading finished: (0:00:00,0031024) 
+14:16:43.611 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V8) Compilation completed, (0:00:00,0110871) 
+14:16:43.618 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,000076) 
+14:16:43.618 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V8) ERC default completed (0:00:00,0028952) 
+14:16:43.618 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:16:44.073 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+14:16:47.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Project DDM Compiled notifications end, (0:00:00,0019637) 
+14:16:47.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:47.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Markers for Schematic Error Objects: 3 (0:00:00,0004786) 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notifications end, (0:00:00,020562) 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Project DDM Compiled notifications end, (0:00:00,0007054) 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Markers for Schematic Error Objects: 3 (0:00:00,0004268) 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notifications end, (0:00:00,0005953) 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Project DDM Compiled notifications end, (0:00:00,0007416) 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Markers for Schematic Error Objects: 3 (0:00:00,0003654) 
+14:16:47.827 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notifications end, (0:00:00,0005265) 
+14:16:48.393 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.LibrarySourceChanged 
+14:16:48.398 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V9) Compilation completed, (0:00:00,0046216) 
+14:16:48.416 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,000109) 
+14:16:48.416 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V9) ERC default completed (0:00:00,0032983) 
+14:16:48.416 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:16:48.572 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Project DDM Compiled notifications end, (0:00:00,0011533) 
+14:16:48.572 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:48.572 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:16:48.572 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Markers for Schematic Error Objects: 3 (0:00:00,0010254) 
+14:16:48.572 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notifications end, (0:00:00,0014474) 
+14:16:49.907 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V9) CompileNotifications sending... 
+14:16:49.948 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,0020792) 
+14:16:49.960 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,0010442) 
+14:16:50.262 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V9) CompileNotification sent. 
+14:17:03.349 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,2678084, MEDIAN = 0:00:00,2678084, MAX = 0:00:00,2678084 
+14:28:25.687 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 4 ms 
+14:28:25.820 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): JGXSXWGV 
+14:28:25.820 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:28:25.820 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 138 ms 
+14:28:33.878 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:28:33.878 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+14:28:33.878 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:28:58.435 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+14:28:58.584 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): EMJQQDZU 
+14:28:58.584 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:28:58.584 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 151 ms 
+14:28:59.020 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): EMJQQDZU 
+14:28:59.020 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:29:01.640 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:01.640 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 22 ms (Full:23 ms) 
+14:29:01.659 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V12) Compilation completed, (0:00:00,0178317) 
+14:29:01.665 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000615) 
+14:29:01.665 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V12) ERC default completed (0:00:00,0019117) 
+14:29:01.665 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:01.665 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Project DDM Compiled notifications end, (0:00:00,001071) 
+14:29:01.665 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:01.665 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:01.665 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Markers for Schematic Error Objects: 2 (0:00:00,000516) 
+14:29:01.665 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notifications end, (0:00:00,0006526) 
+14:29:01.798 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,0010291) 
+14:29:02.708 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:29:02.708 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+14:29:02.708 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:29:03.710 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 3, MIN = 0:00:00,0119149, MEDIAN = 0:00:00,0148211, MAX = 0:00:00,0155687 
+14:29:43.155 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 70 ms 
+14:29:43.891 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 0 ms, max: 10 ms, total: 24 ms, count: 55 
+14:29:43.964 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:43.964 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 2 ms (Full:50 ms) 
+14:29:43.964 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 72 ms 
+14:29:43.964 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 141 ms 
+14:29:43.964 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V14) Compilation completed, (0:00:00,001825) 
+14:29:43.964 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000603) 
+14:29:43.964 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V14) ERC default completed (0:00:00,0016711) 
+14:29:43.964 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:43.989 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Project DDM Compiled notifications end, (0:00:00,0015006) 
+14:29:43.990 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:43.990 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:43.990 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Markers for Schematic Error Objects: 2 (0:00:00,0005012) 
+14:29:43.990 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notifications end, (0:00:00,0006503) 
+14:29:44.622 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 56 ms 
+14:29:44.994 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 0 ms, max: 8 ms, total: 13 ms, count: 39 
+14:29:45.035 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V16) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:45.035 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:39 ms) 
+14:29:45.035 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 41 ms 
+14:29:45.035 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 97 ms 
+14:29:45.040 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V16) Compilation completed, (0:00:00,0042538) 
+14:29:45.040 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000679) 
+14:29:45.040 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V16) ERC default completed (0:00:00,0020906) 
+14:29:45.040 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V16) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:45.040 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Project DDM Compiled notifications end, (0:00:00,0006507) 
+14:29:45.040 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:45.040 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:45.040 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Markers for Schematic Error Objects: 2 (0:00:00,0005212) 
+14:29:45.053 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Compile Notifications end, (0:00:00,0007321) 
+14:29:46.106 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 59 ms 
+14:29:46.584 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 0 ms, max: 7 ms, total: 13 ms, count: 31 
+14:29:46.615 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V18) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:46.615 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:30 ms) 
+14:29:46.615 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 32 ms 
+14:29:46.615 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 92 ms 
+14:29:46.615 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V18) Compilation completed, (0:00:00,0046656) 
+14:29:46.615 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000557) 
+14:29:46.615 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V18) ERC default completed (0:00:00,0012729) 
+14:29:46.615 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V18) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:46.632 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Project DDM Compiled notifications end, (0:00:00,0006621) 
+14:29:46.632 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:46.632 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:46.632 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Markers for Schematic Error Objects: 2 (0:00:00,000537) 
+14:29:46.632 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Compile Notifications end, (0:00:00,0006752) 
+14:29:47.308 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 61 ms 
+14:29:48.019 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 0 ms, max: 15 ms, total: 37 ms, count: 79 
+14:29:48.060 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V21) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:48.060 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 3 ms (Full:38 ms) 
+14:29:48.060 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 40 ms 
+14:29:48.060 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 102 ms 
+14:29:48.060 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V21) Compilation completed, (0:00:00,0048814) 
+14:29:48.070 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000501) 
+14:29:48.070 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V21) ERC default completed (0:00:00,0013618) 
+14:29:48.070 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V21) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:48.070 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Project DDM Compiled notifications end, (0:00:00,0006471) 
+14:29:48.070 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:48.070 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:48.070 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Markers for Schematic Error Objects: 2 (0:00:00,0005109) 
+14:29:48.070 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Compile Notifications end, (0:00:00,0006514) 
+14:29:49.160 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Begin: 50 ms 
+14:29:49.819 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.InProgress avg: 1 ms, max: 8 ms, total: 30 ms, count: 51 
+14:29:49.854 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V23) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:49.854 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:32 ms) 
+14:29:49.854 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.Finishing: 35 ms 
+14:29:49.854 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.DragPart.General: 86 ms 
+14:29:49.854 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V23) Compilation completed, (0:00:00,0045327) 
+14:29:49.854 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000497) 
+14:29:49.854 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V23) ERC default completed (0:00:00,0012905) 
+14:29:49.854 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V23) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:49.870 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V23) Project DDM Compiled notifications end, (0:00:00,0006677) 
+14:29:49.870 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V23) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:49.870 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V23) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:49.870 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V23) Markers for Schematic Error Objects: 2 (0:00:00,0005815) 
+14:29:49.870 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V23) Compile Notifications end, (0:00:00,0007209) 
+14:29:51.778 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:29:51.778 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V26) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:51.778 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 4 ms (Full:32 ms) 
+14:29:51.778 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V26) Compilation completed, (0:00:00,0016012) 
+14:29:51.789 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000579) 
+14:29:51.789 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V26) ERC default completed (0:00:00,001293) 
+14:29:51.789 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V26) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:51.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V26) Project DDM Compiled notifications end, (0:00:00,0006383) 
+14:29:51.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V26) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:51.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V26) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:51.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V26) Markers for Schematic Error Objects: 2 (0:00:00,0004755) 
+14:29:51.806 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V26) Compile Notifications end, (0:00:00,0006195) 
+14:29:52.515 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:29:52.515 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V29) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): Action.ProcessEnd 
+14:29:52.515 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:35 ms) 
+14:29:52.515 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V29) Compilation completed, (0:00:00,0016116) 
+14:29:52.527 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000477) 
+14:29:52.527 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V29) ERC default completed (0:00:00,0012718) 
+14:29:52.527 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V29) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:29:52.546 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V29) Project DDM Compiled notifications end, (0:00:00,0006919) 
+14:29:52.546 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V29) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:52.546 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V29) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:29:52.546 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V29) Markers for Schematic Error Objects: 2 (0:00:00,0005311) 
+14:29:52.546 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V29) Compile Notifications end, (0:00:00,0006773) 
+14:29:53.743 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 7, MIN = 0:00:00,0078174, MEDIAN = 0:00:00,0082068, MAX = 0:00:00,0151656 
+14:29:54.864 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:29:54.864 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+14:29:55.457 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:29:55.598 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,001075) 
+14:29:55.954 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (2): UGKXYFUZ, BONSNVJP 
+14:29:55.978 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Touching: 434 ms 
+14:29:55.978 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:29:56.438 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:29:56.438 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+14:29:56.438 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:30:03.756 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00,0049379, MEDIAN = 0:00:00,0089888, MAX = 0:00:00,0130398 
+14:30:11.305 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 2 ms 
+14:30:11.443 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): CCWPBMCA 
+14:30:11.443 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:30:11.443 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 139 ms 
+14:30:13.757 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0063274, MEDIAN = 0:00:00,0063274, MAX = 0:00:00,0063274 
+14:41:40.163 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0030159, MEDIAN = 0:00:00,0030159, MAX = 0:00:00,0030159 
+14:41:41.960 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,002262, MEDIAN = 0:00:00,002262, MAX = 0:00:00,002262 
+14:42:02.856 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+14:42:03.106 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+14:50:44.337 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,006463, MEDIAN = 0:00:00,006463, MAX = 0:00:00,006463 
+14:50:51.668 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+14:50:51.668 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 5 ms 
+14:50:51.668 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+14:50:54.350 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0055654, MEDIAN = 0:00:00,0055654, MAX = 0:00:00,0055654 
+14:50:54.569 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00,010488, MEDIAN = 0:00:00,0162667, MAX = 0:00:00,0220454 
+14:51:00.199 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+14:51:00.358 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+14:52:23.889 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V30) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectSettingsChanged 
+14:52:23.889 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V30) Compilation completed, (0:00:00,0025961) 
+14:52:23.902 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000782) 
+14:52:23.902 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V30) ERC default completed (0:00:00,0051369) 
+14:52:23.902 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V30) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:52:25.968 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V31) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectSettingsChanged 
+14:52:25.968 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V31) Compilation completed, (0:00:00,0015703) 
+14:52:25.980 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000513) 
+14:52:25.980 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V31) ERC default completed (0:00:00,0014155) 
+14:52:25.980 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V31) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V30) Project DDM Compiled notifications end, (0:00:00,0032997) 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V30) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V30) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V30) Markers for Schematic Error Objects: 3 (0:00:00,0005502) 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V30) Compile Notifications end, (0:00:00,0013946) 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V31) Project DDM Compiled notifications end, (0:00:00,0005229) 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V31) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V31) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V31) Markers for Schematic Error Objects: 3 (0:00:00,0002831) 
+14:52:26.026 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V31) Compile Notifications end, (0:00:00,0004012) 
+14:53:40.399 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V32) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectSettingsChanged 
+14:53:40.399 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V32) Compilation completed, (0:00:00,0041797) 
+14:53:40.399 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000601) 
+14:53:40.399 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V32) ERC default completed (0:00:00,0022441) 
+14:53:40.399 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V32) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:53:40.856 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V33) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectSettingsChanged 
+14:53:40.856 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V33) Compilation completed, (0:00:00,0018444) 
+14:53:40.856 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000431) 
+14:53:40.856 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V33) ERC default completed (0:00:00,0012391) 
+14:53:40.856 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V33) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V32) Project DDM Compiled notifications end, (0:00:00,000626) 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V32) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V32) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V32) Markers for Schematic Error Objects: 3 (0:00:00,0004287) 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V32) Compile Notifications end, (0:00:00,0006736) 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V33) Project DDM Compiled notifications end, (0:00:00,0005146) 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V33) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V33) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V33) Markers for Schematic Error Objects: 3 (0:00:00,0003065) 
+14:53:41.001 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V33) Compile Notifications end, (0:00:00,0004345) 
+14:54:05.428 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V34) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectSettingsChanged 
+14:54:05.428 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V34) Compilation completed, (0:00:00,0015213) 
+14:54:05.428 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0001105) 
+14:54:05.428 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V34) ERC default completed (0:00:00,001742) 
+14:54:05.428 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V34) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:54:05.592 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V34) Project DDM Compiled notifications end, (0:00:00,0008374) 
+14:54:05.592 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V34) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:54:05.592 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V34) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:54:05.592 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V34) Markers for Schematic Error Objects: 3 (0:00:00,0004777) 
+14:54:05.592 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V34) Compile Notifications end, (0:00:00,0007117) 
+14:55:06.987 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+14:55:07.161 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+14:55:11.891 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+14:55:11.965 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V35) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectSettingsChanged 
+14:55:12.089 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+14:55:12.089 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V35) Compilation completed, (0:00:00,0029834) 
+14:55:12.108 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000806) 
+14:55:12.108 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V35) ERC default completed (0:00:00,0022546) 
+14:55:12.108 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V35) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+14:55:12.241 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V35) Project DDM Compiled notifications end, (0:00:00,0006273) 
+14:55:12.241 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V35) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:55:12.241 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V35) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+14:55:12.241 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V35) Markers for Schematic Error Objects: 3 (0:00:00,0004017) 
+14:55:12.241 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V35) Compile Notifications end, (0:00:00,0005378) 
+15:00:14.854 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\PCB_Project\History\00000000F4B20005\boosterdeel2.~(5).SchDoc 
+15:00:14.881 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\PCB_Project\History\00000000F4B20005\boosterdeel2.~(5).SchDoc 
+15:00:14.881 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\boosterdeel2.$$$ (objects:133) 
+15:00:15.002 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\boosterdeel2.SchDoc 
+15:00:16.201 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+15:00:16.209 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+15:00:16.247 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+15:00:16.605 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+15:00:16.743 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+15:00:17.496 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Jan Hanegraaf\AppData\Roaming\Altium\Altium Designer {D2F657BB-8EC6-49F7-B83B-414340654FDD}\Advsch.MMsdft (objects:38) 
+15:00:17.528 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Jan Hanegraaf\AppData\Roaming\Altium\Altium Designer {D2F657BB-8EC6-49F7-B83B-414340654FDD}\Advsch.dft (objects:38) 
+21:51:12.707 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\boosterdeel2.SchDoc - sheet was imported (objects:133) 
+21:51:12.709 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V3) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\boosterdeel2.SchDoc, projectFullPath: Free Documents, isDeviceSheet: False 
+21:51:12.724 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V4) DocumentLoading finished: (0:00:00,006811) 
+21:51:12.799 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\booster12-70v.SchDoc - sheet was imported (objects:90) 
+21:51:12.799 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V4) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\booster12-70v.SchDoc, projectFullPath: Free Documents, isDeviceSheet: False 
+21:51:12.809 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V5) DocumentLoading finished: (0:00:00,0063837) 
+21:51:37.569 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0093011, MEDIAN = 0:00:00,0093011, MAX = 0:00:00,0093011 
+21:51:40.633 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,127574, MEDIAN = 0:00:00,127574, MAX = 0:00:00,127574 
+21:52:10.260 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'PCB_Project1.PrjPCB' 
+21:52:10.642 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:10.651 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 0 
+21:52:10.692 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V1) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectLoaded 
+21:52:10.693 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Load Project C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb Completed, 0 schematics (0:00:00,0427389) 
+21:52:10.723 [Warn] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: Expected for path? 'PCB_Project1.PrjPCB' System.ArgumentException: De mapnaam  is ongeldig.
+   bij System.IO.FileSystemWatcher..ctor(String path, String filter)
+   bij Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher.CreateFileSystemWatcherForMainDir(String projectFilePath)
+21:52:10.732 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb' 
+21:52:10.752 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,0309874) 
+21:52:10.757 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:10.757 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 0 
+21:52:10.757 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V2) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectLoaded 
+21:52:10.757 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Load Project C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb Completed, 0 schematics (0:00:00,0034099) 
+21:52:10.786 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V2) Unique ePostCompile notification register: eStructureChanged 
+21:52:10.789 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V2) Compilation completed, (0:00:00,0003099) 
+21:52:10.855 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (PCB_Project1.PrjPCB): 1 
+21:52:10.875 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+21:52:10.882 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove PCB_Project1.PrjPCB 
+21:52:10.963 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (PCB_Project1.PrjPCB): 0 
+21:52:10.963 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+21:52:11.116 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0007692) 
+21:52:11.116 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000373) 
+21:52:11.116 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V1) ERC default completed (0:00:00,0618669) 
+21:52:11.116 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V2) ERC default completed (0:00:00,0625706) 
+21:52:11.116 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V1) Compilation request completed: DONE  - PCB_Project1.PrjPCB, Compiled: True 
+21:52:11.116 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V2) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:52:11.116 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V1) Project DDM Compiled notifications end, (0:00:00,0011568) 
+21:52:11.116 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V1) Compile Notification start - eUdmProjectView, PCB_Project1.PrjPCB 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V1) Markers for Schematic Error Objects: 0 (0:00:00,0060505) 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V1) Compile Notifications end, (0:00:00,0086333) 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) Project DDM Compiled notifications end, (0:00:00,0005288) 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) Markers for Schematic Error Objects: 0 (0:00:00,0005396) 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V2) Compile Notifications end, (0:00:00,0016585) 
+21:52:11.131 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V2) CompileNotifications sending... 
+21:52:11.154 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V2) CompileNotification sent. 
+21:52:13.654 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectDocumentsOrderChanged 
+21:52:13.654 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V3) Unique ePostCompile notification register: eStructureChanged 
+21:52:13.654 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V3) Compilation completed, (0:00:00,0021784) 
+21:52:13.654 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000021) 
+21:52:13.654 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V3) ERC default completed (0:00:00,0002065) 
+21:52:13.654 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V3) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:52:13.692 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V3) DocumentLoading: documentFullPath: C:\Users\Public\Documents\Altium\tussenprint.SchDoc, projectFullPath: C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, isDeviceSheet: False 
+21:52:13.699 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.DocumentLoading (delayed) 
+21:52:13.699 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: (V4) DocumentLoading finished: (0:00:00,0076707) 
+21:52:13.699 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\tussenprint.SchDoc - sheet was taken from cache (objects:52) 
+21:52:13.736 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V4) ePreCompile notification register: eCommonAction 
+21:52:13.736 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V4) Unique ePostCompile notification register: eStructureChanged 
+21:52:13.827 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V4) Compilation completed, (0:00:00,0913391) 
+21:52:13.842 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+21:52:13.857 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Project DDM Compiled notifications end, (0:00:00,0017945) 
+21:52:13.857 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:13.857 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:13.857 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Markers for Schematic Error Objects: 0 (0:00:00,0000544) 
+21:52:13.857 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V3) Compile Notifications end, (0:00:00,00027) 
+21:52:13.857 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V3) CompileNotifications sending... 
+21:52:13.976 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:12, Total violations:12, Delete existing:True) (0:00:00,0109765) 
+21:52:13.976 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V4) ERC default completed (0:00:00,0786379) 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Project DDM Compiled notifications end, (0:00:00,0005136) 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V5) Compilation completed, (0:00:00,0003863) 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Markers for Schematic Error Objects: 8 (0:00:00,0012463) 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notifications end, (0:00:00,0014077) 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotifications sending... 
+21:52:13.976 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:12, Total violations:12, Delete existing:True) (0:00:00,0001119) 
+21:52:13.976 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V5) ERC default completed (0:00:00,0008238) 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V5) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:52:13.976 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotification sent. 
+21:52:13.992 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,000323) 
+21:52:14.104 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotification sent. 
+21:52:14.104 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V5) CompileNotifications sending... 
+21:52:14.104 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Project DDM Compiled notifications end, (0:00:00,0005697) 
+21:52:14.104 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:14.104 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:14.104 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Markers for Schematic Error Objects: 8 (0:00:00,0000552) 
+21:52:14.104 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V5) Compile Notifications end, (0:00:00,0001622) 
+21:52:20.678 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00,0017014, MEDIAN = 0:00:00,0020123, MAX = 0:00:00,0023233 
+21:52:29.353 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+21:52:29.353 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V6) Compilation completed, (0:00:00,0005492) 
+21:52:29.353 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:12, Total violations:12, Delete existing:True) (0:00:00,0001426) 
+21:52:29.353 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V6) ERC default completed (0:00:00,0007366) 
+21:52:29.353 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V6) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:52:29.493 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Project DDM Compiled notifications end, (0:00:00,0008803) 
+21:52:29.493 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:29.493 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:29.493 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Markers for Schematic Error Objects: 8 (0:00:00,0000886) 
+21:52:29.493 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V6) Compile Notifications end, (0:00:00,0008106) 
+21:52:54.615 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+21:52:54.615 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V7) Compilation completed, (0:00:00,0003664) 
+21:52:54.615 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:12, Total violations:12, Delete existing:True) (0:00:00,0000532) 
+21:52:54.615 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V7) ERC default completed (0:00:00,0003912) 
+21:52:54.615 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V7) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:52:54.853 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Project DDM Compiled notifications end, (0:00:00,000628) 
+21:52:54.853 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:54.853 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:52:54.853 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Markers for Schematic Error Objects: 8 (0:00:00,0000643) 
+21:52:54.853 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V7) Compile Notifications end, (0:00:00,000223) 
+21:53:00.679 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00,0011264, MEDIAN = 0:00:00,0017784, MAX = 0:00:00,0024305 
+21:53:04.020 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V7) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+21:53:04.025 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:12, Delete existing:False) (0:00:00,0000135) 
+21:53:04.025 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V7) ERC long running completed (0:00:00,0031508) 
+21:53:04.067 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V7) ProjectAdapter.PopulateMessagesManager (12) 
+21:53:04.076 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,0003238) 
+21:53:04.159 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): 1 
+21:53:04.357 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+21:53:10.679 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0010837, MEDIAN = 0:00:00,0010837, MAX = 0:00:00,0010837 
+21:53:22.324 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+21:53:22.823 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+21:53:26.953 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+21:53:26.962 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): 0 
+21:53:42.107 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 3 ms 
+21:53:42.248 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): OIRKVDMT 
+21:53:42.248 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:53:42.248 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 144 ms 
+21:53:45.438 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:01.648 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): Action.ProcessEnd 
+21:54:01.648 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 18 ms (Full:19 ms) 
+21:54:01.648 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V8) Compilation completed, (0:00:00,000509) 
+21:54:01.648 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,0000248) 
+21:54:01.648 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V8) ERC default completed (0:00:00,000356) 
+21:54:01.648 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V8) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:54:01.673 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Project DDM Compiled notifications end, (0:00:00,0012983) 
+21:54:01.673 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:01.673 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:01.673 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Markers for Schematic Error Objects: 6 (0:00:00,0005479) 
+21:54:01.673 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V8) Compile Notifications end, (0:00:00,0006808) 
+21:54:01.673 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+21:54:01.687 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): BCRESDEF 
+21:54:01.687 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:01.687 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 11 ms 
+21:54:09.003 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): Action.ProcessEnd 
+21:54:09.003 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:09.003 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V9) Compilation completed, (0:00:00,0003357) 
+21:54:09.003 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:3, Total violations:3, Delete existing:True) (0:00:00,0000148) 
+21:54:09.003 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V9) ERC default completed (0:00:00,0003204) 
+21:54:09.003 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V9) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:54:09.031 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Project DDM Compiled notifications end, (0:00:00,000733) 
+21:54:09.031 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:09.031 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:09.031 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Markers for Schematic Error Objects: 4 (0:00:00,000365) 
+21:54:09.031 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V9) Compile Notifications end, (0:00:00,0005018) 
+21:54:09.098 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+21:54:09.098 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+21:54:09.098 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:10.710 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 2, MIN = 0:00:00,0020523, MEDIAN = 0:00:00,0020789, MAX = 0:00:00,0021055 
+21:54:17.663 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0006291, MEDIAN = 0:00:00,0006291, MAX = 0:00:00,0006291 
+21:54:22.284 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+21:54:22.413 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+21:54:23.400 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+21:54:23.602 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+21:54:32.787 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0252546, MEDIAN = 0:00:00,0252546, MAX = 0:00:00,0252546 
+21:54:32.866 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0104471, MEDIAN = 0:00:00,0104471, MAX = 0:00:00,0104471 
+21:54:37.958 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+21:54:37.986 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): HQSYQNVY 
+21:54:37.986 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:37.986 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 29 ms 
+21:54:47.955 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): Action.ProcessEnd 
+21:54:47.955 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:47.955 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V10) Compilation completed, (0:00:00,0005941) 
+21:54:47.959 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:1, Total violations:1, Delete existing:True) (0:00:00,0000115) 
+21:54:47.959 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V10) ERC default completed (0:00:00,0003606) 
+21:54:47.959 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V10) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:54:47.987 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) Project DDM Compiled notifications end, (0:00:00,0006386) 
+21:54:47.987 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:47.987 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:47.987 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) Markers for Schematic Error Objects: 1 (0:00:00,0002148) 
+21:54:47.987 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V10) Compile Notifications end, (0:00:00,0003434) 
+21:54:48.040 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+21:54:48.040 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+21:54:48.040 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:49.214 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+21:54:49.245 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection changed (1): MLAWVVEU 
+21:54:49.245 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:49.245 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Select.Single: 31 ms 
+21:54:50.712 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0018013, MEDIAN = 0:00:00,0018013, MAX = 0:00:00,0018013 
+21:54:56.776 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): Action.ProcessEnd 
+21:54:56.776 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:54:56.776 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V11) Compilation completed, (0:00:00,0003347) 
+21:54:56.776 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000013) 
+21:54:56.776 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V11) ERC default completed (0:00:00,0003017) 
+21:54:56.776 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V11) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:54:56.787 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) Project DDM Compiled notifications end, (0:00:00,0005031) 
+21:54:56.787 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:56.787 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:54:56.787 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) Markers for Schematic Error Objects: 0 (0:00:00,0000861) 
+21:54:56.787 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V11) Compile Notifications end, (0:00:00,0002078) 
+21:55:00.724 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0018173, MEDIAN = 0:00:00,0018173, MAX = 0:00:00,0018173 
+21:55:07.122 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): Action.ProcessEnd 
+21:55:07.122 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:55:07.122 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V12) Compilation completed, (0:00:00,0003509) 
+21:55:07.122 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,000002) 
+21:55:07.122 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V12) ERC default completed (0:00:00,0004631) 
+21:55:07.122 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V12) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+21:55:07.157 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Project DDM Compiled notifications end, (0:00:00,0005879) 
+21:55:07.157 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:55:07.157 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+21:55:07.157 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Markers for Schematic Error Objects: 0 (0:00:00,0000881) 
+21:55:07.157 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V12) Compile Notifications end, (0:00:00,0002173) 
+21:55:07.217 [Info] Altium.Sch.DataModel.EngineObjects.BaseObjects.SelectedObjects: Selection cleared 
+21:55:07.217 [Info] Altium.Sch.Core.Performance.AnalyticsUtils: [FeatureTracking] Sch.Selection.Deselect.All: 0 ms 
+21:55:07.217 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Operation took: 0 ms (Full:0 ms) 
+21:55:10.489 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V12) ProjectContainer.Compile (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb - PopulateMessagesManager:True, ForceCompile:False) 
+21:55:10.489 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:False) (0:00:00,0000025) 
+21:55:10.489 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V12) ERC long running completed (0:00:00,0000806) 
+21:55:10.493 [Info] Altium.Sch.Compilation.Adapters.ProjectAdapter: (V12) ProjectAdapter.PopulateMessagesManager (0) 
+21:55:10.493 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,0004076) 
+21:55:10.528 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): 1 
+21:55:10.724 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0020626, MEDIAN = 0:00:00,0020626, MAX = 0:00:00,0020626 
+21:55:11.056 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+21:55:14.252 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 2 
+21:55:14.753 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 1 
+21:55:18.233 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+21:55:18.240 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): 0 
+21:55:20.738 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0014119, MEDIAN = 0:00:00,0014119, MAX = 0:00:00,0014119 
+22:13:48.574 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:13:48.574 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V13) Compilation completed, (0:00:00,0003486) 
+22:13:48.574 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000015) 
+22:13:48.574 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V13) ERC default completed (0:00:00,0003204) 
+22:13:48.574 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V13) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:13:49.601 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:13:49.601 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V14) Compilation completed, (0:00:00,0005358) 
+22:13:49.601 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000023) 
+22:13:49.601 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V14) ERC default completed (0:00:00,0004672) 
+22:13:49.601 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V14) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:13:49.661 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) Project DDM Compiled notifications end, (0:00:00,0010032) 
+22:13:49.661 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:49.661 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:49.662 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) Markers for Schematic Error Objects: 0 (0:00:00,0001853) 
+22:13:49.662 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V13) Compile Notifications end, (0:00:00,000558) 
+22:13:49.662 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Project DDM Compiled notifications end, (0:00:00,0010923) 
+22:13:49.662 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:49.662 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:49.662 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Markers for Schematic Error Objects: 0 (0:00:00,0001305) 
+22:13:49.662 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V14) Compile Notifications end, (0:00:00,0003034) 
+22:13:56.847 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V15) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:13:56.847 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V15) Compilation completed, (0:00:00,0003775) 
+22:13:56.847 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000019) 
+22:13:56.847 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V15) ERC default completed (0:00:00,0003014) 
+22:13:56.847 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V15) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:13:56.883 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V16) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:13:56.883 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V16) Compilation completed, (0:00:00,0005431) 
+22:13:56.883 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000021) 
+22:13:56.883 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V16) ERC default completed (0:00:00,0004239) 
+22:13:56.883 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V16) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V15) Project DDM Compiled notifications end, (0:00:00,0006534) 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V15) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V15) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V15) Markers for Schematic Error Objects: 0 (0:00:00,000097) 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V15) Compile Notifications end, (0:00:00,0002169) 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Project DDM Compiled notifications end, (0:00:00,0004064) 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Markers for Schematic Error Objects: 0 (0:00:00,0000718) 
+22:13:56.930 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V16) Compile Notifications end, (0:00:00,0001727) 
+22:14:56.961 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V17) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:14:56.961 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V17) Compilation completed, (0:00:00,000338) 
+22:14:56.961 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000013) 
+22:14:56.961 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V17) ERC default completed (0:00:00,0003142) 
+22:14:56.961 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V17) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:14:57.359 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V18) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:14:57.359 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V18) Compilation completed, (0:00:00,0004519) 
+22:14:57.359 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000014) 
+22:14:57.359 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V18) ERC default completed (0:00:00,0003468) 
+22:14:57.359 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V18) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V17) Project DDM Compiled notifications end, (0:00:00,0009032) 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V17) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V17) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V17) Markers for Schematic Error Objects: 0 (0:00:00,0001131) 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V17) Compile Notifications end, (0:00:00,0004736) 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Project DDM Compiled notifications end, (0:00:00,0008529) 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Markers for Schematic Error Objects: 0 (0:00:00,0001279) 
+22:14:57.469 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V18) Compile Notifications end, (0:00:00,0002546) 
+22:15:20.910 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V19) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:15:20.910 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V19) Compilation completed, (0:00:00,0003409) 
+22:15:20.912 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000026) 
+22:15:20.912 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V19) ERC default completed (0:00:00,0005109) 
+22:15:20.912 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V19) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:15:21.440 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V20) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:15:21.440 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V20) Compilation completed, (0:00:00,0004573) 
+22:15:21.440 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000016) 
+22:15:21.440 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V20) ERC default completed (0:00:00,0003963) 
+22:15:21.440 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V20) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V19) Project DDM Compiled notifications end, (0:00:00,0009402) 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V19) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V19) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V19) Markers for Schematic Error Objects: 0 (0:00:00,0001318) 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V19) Compile Notifications end, (0:00:00,0004229) 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V20) Project DDM Compiled notifications end, (0:00:00,0007216) 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V20) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V20) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V20) Markers for Schematic Error Objects: 0 (0:00:00,0001076) 
+22:15:21.555 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V20) Compile Notifications end, (0:00:00,0002632) 
+22:15:55.575 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V21) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:15:55.575 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V21) Compilation completed, (0:00:00,0003774) 
+22:15:55.575 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000013) 
+22:15:55.575 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V21) ERC default completed (0:00:00,000338) 
+22:15:55.575 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V21) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:15:55.738 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Project DDM Compiled notifications end, (0:00:00,0009154) 
+22:15:55.738 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:15:55.738 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:15:55.738 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Markers for Schematic Error Objects: 0 (0:00:00,0001756) 
+22:15:55.738 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V21) Compile Notifications end, (0:00:00,000391) 
+22:16:18.398 [Info] Altium.Sch.Painter.Debug.PaintingTimeLogger: PaintingTimeLogger: MEASUREMENTS = 1, MIN = 0:00:00,0006678, MEDIAN = 0:00:00,0006678, MAX = 0:00:00,0006678 
+22:16:20.223 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:16:20.463 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:16:23.610 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:16:23.741 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:16:26.937 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:16:26.998 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V22) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb): DCCW.ProjectSettingsChanged 
+22:16:27.089 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:16:27.089 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V22) Compilation completed, (0:00:00,0003671) 
+22:16:27.100 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:0, Total violations:0, Delete existing:True) (0:00:00,0000018) 
+22:16:27.100 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V22) ERC default completed (0:00:00,0003271) 
+22:16:27.100 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V22) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb, Compiled: True 
+22:16:27.159 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V22) Project DDM Compiled notifications end, (0:00:00,0005195) 
+22:16:27.159 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V22) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:16:27.159 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V22) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:16:27.159 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V22) Markers for Schematic Error Objects: 0 (0:00:00,0000351) 
+22:16:27.159 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V22) Compile Notifications end, (0:00:00,0001598) 
+22:17:34.823 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\PCB_tussen\History\00000000F4B20005\tussenprint.~(1).SchDoc 
+22:17:34.844 [Info] Altium.Sch.Core.ProjectUtils.DataFile.ProjectFilesWatcher: File Changed: C:\Users\Public\Documents\Altium\Projects\PCB_tussen\History\00000000F4B20005\tussenprint.~(1).SchDoc 
+22:17:34.857 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Public\Documents\Altium\tussenprint.$$$ (objects:52) 
+22:17:35.626 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+22:17:35.626 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\PCB_tussen\PCB_tussen.PrjPcb 
+22:17:35.635 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:17:35.936 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+22:17:36.028 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:17:36.661 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Jan Hanegraaf\AppData\Roaming\Altium\Altium Designer {D2F657BB-8EC6-49F7-B83B-414340654FDD}\Advsch.MMsdft (objects:38) 
+22:17:36.694 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Jan Hanegraaf\AppData\Roaming\Altium\Altium Designer {D2F657BB-8EC6-49F7-B83B-414340654FDD}\Advsch.dft (objects:38) 
+22:20:33.335 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:25:50.481 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:25:50.492 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmNavigator: 'C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb' 
+22:25:50.546 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Start Load Project Data C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+22:25:50.559 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Project loading... Documents: 2 
+22:25:50.615 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\booster12-70v.SchDoc - sheet was imported (objects:90) 
+22:25:50.615 [Warn] Altium.Sch.Core.SchDataModel2: Import Sheet C:\Users\Public\Documents\Altium\boosterdeel2.SchDoc - sheet was imported (objects:133) 
+22:25:50.649 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) Compilation requested (C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb): DCCW.ProjectLoaded 
+22:25:50.649 [Info] Altium.Sch.Core.ProjectUtils.DataFile.SchematicReaderAsync: Load Project C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb Completed, 2 schematics (0:00:00,0936958) 
+22:25:50.695 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:25:50.695 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer registered eUdmProjectView: '' 
+22:25:50.796 [Info] Altium.Sch.Compilation.Compiler.ProjectContainer: (V4) Unique ePostCompile notification register: eStructureChanged 
+22:25:50.928 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V4) Compilation completed, (0:00:00,1293724) 
+22:25:51.252 [Info] Altium.Sch.Core.Verification.ViolationManagerConsumer: ViolationManagerConsumer (Incoming violations:5, Total violations:5, Delete existing:True) (0:00:00,021686) 
+22:25:51.252 [Info] Altium.Sch.Core.Verification.ProjectValidator: (V4) ERC default completed (0:00:00,1277352) 
+22:25:51.252 [Info] Altium.Sch.Compilation.Compiler.BackgroundCompiler: (V4) Compilation request completed: DONE  - C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb, Compiled: True 
+22:25:51.260 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Project DDM Compiled notifications end, (0:00:00,000751) 
+22:25:51.260 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmNavigator, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+22:25:51.260 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notification start - eUdmProjectView, C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+22:25:51.314 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Markers for Schematic Error Objects: 0 (0:00:00,0040255) 
+22:25:51.314 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: (V4) Compile Notifications end, (0:00:00,0536884) 
+22:25:51.314 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotifications sending... 
+22:25:51.330 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,001222) 
+22:25:51.339 [Info] Altium.Sch.Compilation.Compiler.ProjectCompiler: (V1) Compilation completed, (0:00:00,0006042) 
+22:25:51.509 [Info] Altium.Sch.Compilation.Compiler.CompileNotificationsSender: (V4) CompileNotification sent. 
+22:26:01.127 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:26:01.272 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:26:02.575 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:26:02.658 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:26:05.753 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:26:05.920 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:26:13.852 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:26:16.940 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:34:56.941 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove C:\Users\Public\Documents\Altium\Projects\PCB_Project\PCB_Project.PrjPcb 
+22:34:56.950 [Info] Altium.Sch.Compilation.Compiler.DynamicCompilerChangesWatcher: Remove Free Documents 
+22:34:56.950 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+22:34:57.120 [Info] Altium.Sch.Compilation.Compiler.SchCompilator: Observer unregistered eUdmNavigator 
+22:34:57.185 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+22:34:57.845 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Jan Hanegraaf\AppData\Roaming\Altium\Altium Designer {D2F657BB-8EC6-49F7-B83B-414340654FDD}\Advsch.MMsdft (objects:38) 
+22:34:57.911 [Info] Altium.Sch.DataModel.SchDataModel: Export Object C:\Users\Jan Hanegraaf\AppData\Roaming\Altium\Altium Designer {D2F657BB-8EC6-49F7-B83B-414340654FDD}\Advsch.dft (objects:38) 
+23:11:45.529 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+23:11:45.608 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+23:11:47.967 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+23:11:48.152 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+23:12:01.714 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+23:12:03.241 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+23:14:49.814 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+23:14:49.885 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+23:15:06.249 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+23:15:06.319 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+23:16:03.221 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+23:16:05.160 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
+23:17:05.374 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation suspended ([GLOBAL]): 1 
+23:17:05.514 [Info] Altium.Sch.Compilation.Compiler.SuspendController: Continuous compilation resumed ([GLOBAL]): 0 
